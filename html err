@@ -1,0 +1,25 @@
+x = 'abhijith', 'aleena', 'hari', 'manjari'
+y = 'sadi', 'vinay', 'akb', 'ganges'
+print(x)
+print(y)
+print(x+y)
+
+# 5568
+x = ' i seee somebodys watchinng me'
+y = 'ohh noo thats just a illusion nobodys watching you'
+
+print(x.upper())
+print(y.lower())
+print(x[5])
+print(x[3])
+print(x.split())
+print(y.split())
+print(x.replace('e', 'a'))
+print(x.replace('e', 'o'))
+print(x.replace('s', 'o'))
+print(y.replace('h', 'c'))
+# 65wed
+mylist = [10, 30, 70, ]
+mylist1 = ['jordan', 'kold', 'jjchu', 'sihc']
+print(mylist)
+print(mylist1)
