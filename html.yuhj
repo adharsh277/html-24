@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: crimson;
+    font: size 30px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+p {
+    text-align: center;
+    color: cadetblue;
+    font-size:  30px; ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
